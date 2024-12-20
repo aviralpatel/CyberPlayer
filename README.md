@@ -2,9 +2,9 @@
 
 CyberPlayer is a music player project that allows you to play music files using a microcontroller. This README provides an overview of the project and details on how to set up the hardware pin connections.
 
-<img src="./images/image2.jpeg" alt="CyberPlayer" width="200"/>
-<img src="./images/image3.jpeg" alt="CyberPlayer" width="200"/>
-<img src="./images/image1.png" alt="CyberPlayer" width="200"/>
+<img src="./images/image2.jpeg" alt="CyberPlayer" width="300"/>
+<img src="./images/image3.jpeg" alt="CyberPlayer" width="300"/>
+<img src="./images/image1.png" alt="CyberPlayer" width="300"/>
 <img src="./images/model.png" alt="CyberPlayer" width="900"/>
 ## Features
 
